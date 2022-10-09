@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Johann:)
 #### I'm a Human. Or am I? Oh, and I'm also a Student!
-![I'm a Human. Or am I? Oh, and I'm also a Student!](https://media-exp1.licdn.com/dms/image/C4E16AQEWwuKltyEKKw/profile-displaybackgroundimage-shrink_350_1400/0/1659889159574?e=1671062400&v=beta&t=dWRVruXfajyMvfilEgrQ9mQuaHi7e5AOt_PkAXBfKsw)
 
 
 Skills: javascript / node.js / solidity / python / rust
@@ -14,6 +13,3 @@ Skills: javascript / node.js / solidity / python / rust
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/johann-klf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@johanns)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johann-kleindopf-408993241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/johann.klf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/r7ved)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19209547)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dsc.bio/qqq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@johann-klf)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=johann-klf&show_icons=true)  
-
