@@ -2,7 +2,7 @@
 
 ## I'm a Human. Or am I? Oh, and I'm also a Student!
 
-- 🔗 I'm currently working on a [Blogpost][https://medium.com/@johann-klf]!
+- 🔗 I'm currently working on a [Blogpost](https://medium.com/@johann-klf)!
 - 🌱 Currently learning Python and C++ 🌙
 - 🎯 Always looking for people to collaborate with; hmu!
 - 📌 I want to contribute more to Open-Source-Projects
