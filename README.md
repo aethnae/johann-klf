@@ -16,7 +16,7 @@
 [![website](https://user-images.githubusercontent.com/85245989/194774149-069bd318-894b-42b4-a0b6-81cf3118c516.svg)](https://medium.com/@johann-klf)
 [![website](https://user-images.githubusercontent.com/85245989/194774151-312d0eb7-d6c4-45e8-9024-db895d4f70d2.svg)](https://medium.com/@johann-klf)
 &nbsp;&nbsp;
-[![website](./icons/twitter-light.svg)](https://twitter.com/r7ved)
+[![website](https://user-images.githubusercontent.com/85245989/194774220-2694c20d-44a1-4633-8d0e-07f84a9747e6.svg)](https://twitter.com/r7ved)
 [![website](./icons/twitter-dark.svg)](https://twitter.com/r7ved)
 &nbsp;&nbsp;
 [![website](./icons/linkedin-light.svg)](https://www.linkedin.com/in/johann-kleindopf-408993241)
@@ -27,3 +27,4 @@
 
 
 
+![twitter-light](https://user-images.githubusercontent.com/85245989/194774220-2694c20d-44a1-4633-8d0e-07f84a9747e6.svg)
