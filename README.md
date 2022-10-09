@@ -1,32 +1,19 @@
-### Hi there, I'm Johann:)
+### Hi there 👋, my name is Johann:)
+#### I'm a Human. Or am I? Oh, and I'm also a Student!
+![I'm a Human. Or am I? Oh, and I'm also a Student!](https://media-exp1.licdn.com/dms/image/C4E16AQEWwuKltyEKKw/profile-displaybackgroundimage-shrink_350_1400/0/1659889159574?e=1671062400&v=beta&t=dWRVruXfajyMvfilEgrQ9mQuaHi7e5AOt_PkAXBfKsw)
 
-## I'm a Human. Or am I? Oh, and I'm also a Student!
 
-- 🔗 I'm currently working on a [Blogpost](https://medium.com/@johann-klf)!
-- 🌱 Currently learning Python and C++ 🌙
-- 🎯 Always looking for people to collaborate with; hmu!
-- 📌 I want to contribute more to Open-Source-Projects
-- 🎼 Oh, I also play piano and drums
+Skills: javascript / node.js / solidity / python / rust
 
-### Connect with me:
+- 🔭 I’m currently working on a [Blogpost](https://medium.com/@johann-klf)! 
+- 🌱 I’m currently learning Rust 🦀 
+- 👯 I’m looking to collaborate on blockchain-related projects 🚀 
+- 📫 How to reach me: discord ->juhann#0831 
+- 😄 Pronouns: he / him 
+- ⚡ Fun fact: I play the drums & piano 🎼 
 
-[![website](https://user-images.githubusercontent.com/85245989/194774220-2694c20d-44a1-4633-8d0e-07f84a9747e6.svg)](https://twitter.com/r7ved)
-&nbsp;&nbsp;
-[![website](https://user-images.githubusercontent.com/85245989/194774302-32f653d5-d415-4f03-95dd-3fc6bb4fa602.svg)](https://www.linkedin.com/in/johann-kleindopf-408993241)
-&nbsp;&nbsp;
-[![website](https://user-images.githubusercontent.com/85245989/194774333-4ea15e2f-ec4a-4c30-bc45-54465be8cc66.svg)](https://www.instagram.com/johann.klf)
 
-### Languages and Tools:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/johann-klf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@johanns)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johann-kleindopf-408993241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/johann.klf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/r7ved)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19209547)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dsc.bio/qqq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@johann-klf)  
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=johann-klf&show_icons=true)  
+
