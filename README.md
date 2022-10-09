@@ -11,7 +11,6 @@
 ### Connect with me:
 
 [![website](https://user-images.githubusercontent.com/85245989/194774220-2694c20d-44a1-4633-8d0e-07f84a9747e6.svg)](https://twitter.com/r7ved)
-[![website](https://user-images.githubusercontent.com/85245989/194774285-96e5590d-fae0-4797-b418-bf771d785e45.svg)](https://twitter.com/r7ved)
 &nbsp;&nbsp;
 [![website](https://user-images.githubusercontent.com/85245989/194774302-32f653d5-d415-4f03-95dd-3fc6bb4fa602.svg)](https://www.linkedin.com/in/johann-kleindopf-408993241)
 [![website](https://user-images.githubusercontent.com/85245989/194774305-a5156d67-f656-496c-b3d1-e48848f92a96.svg)](https://www.linkedin.com/in/johann-kleindopf-408993241)
