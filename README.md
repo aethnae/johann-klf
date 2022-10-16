@@ -2,7 +2,7 @@
 #### I'm a Human. Or am I? Oh, and I'm also a Student!
 
 
-Skills: javascript / node.js / solidity / python / rust
+Skills: javascript / node.js / solidity / python / rust / markdown / html / css
 
 - 🔭 I’m currently working on a [Blogpost](https://medium.com/@johann-klf)! 
 - 🌱 I’m currently learning Rust 🦀 
